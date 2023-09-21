@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="192.168.31.172:5555" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2023-09-21T08:03:40.503077200Z" />
+        </State>
+      </entry>
+      <entry key="testlib">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="192.168.31.172:5555" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2023-09-21T08:01:53.150923800Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+plugins {
+    id 'java-gradle-plugin'
+}
+
+dependencies {
+    compileOnly libs.android.gradlePlugin
+}
+
+gradlePlugin {
+    plugins {
+        androidApplication {
+            id = 'com.mct.android.application'
+            implementationClass = 'AndroidApplicationConventionPlugin'
+        }
+        androidLibrary {
+            id = 'com.mct.android.library'
+            implementationClass = 'AndroidLibraryConventionPlugin'
+        }
+    }
+}
